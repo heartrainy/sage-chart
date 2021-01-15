@@ -12,7 +12,7 @@ class ChangeButton extends Component{
     render(){
       const {btnTxt}=this.state;
       return(
-        <div className='button-container' onClick={()=>{ this.setState({btnTxt:btnTxt==='Login2'?'Logout3':'Login2'})}}>
+        <div className='button-container' onClick={()=>{ this.setState({btnTxt:btnTxt==='Login2'?'Logout4':'Login2'})}}>
           <span>{btnTxt}</span>
         </div>
       )
