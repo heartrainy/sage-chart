@@ -1,3 +1,3 @@
-import ChangeButton from './change_button';
+import Line from './line';
 
-export default ChangeButton;
+export default Line;

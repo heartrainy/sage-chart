@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ChangeButton from './components/change_button';
+import Line from './components/line';
 
 const App = () => {
   return (
     <div>
-      <ChangeButton />
+      <Line id="demo-line-1" style={{width: '100%', height: '500px'}} />
     </div>
   )
 }

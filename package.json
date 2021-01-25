@@ -39,6 +39,7 @@
     "webpack-node-externals": "^2.5.0"
   },
   "dependencies": {
+    "echarts": "^5.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   }
