@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import * as echarts from 'echarts';
-import './style.css';
+import '../global.css';
 
 const defaultOption = {
   xAxis: {
