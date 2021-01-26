@@ -1,8 +1,8 @@
 {
   "name": "sage-chart",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
-  "main": "lib/change-button.js",
+  "main": "lib/sagechart.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config ./scripts/webpack.prod.config.js",

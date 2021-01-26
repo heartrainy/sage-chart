@@ -19,7 +19,7 @@ const webpackConfigProd = {
   },
 
   output: {
-    filename: 'change-button.js',
+    filename: 'sagechart.js',
     path: resolve('../lib'), 
     libraryTarget:'commonjs2'
   },
